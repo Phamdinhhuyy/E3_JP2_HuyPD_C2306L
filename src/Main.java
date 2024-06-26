@@ -95,7 +95,7 @@ public class Main {
                         System.out.println(bookingRepo.roomMaxRevenue2023(year));
                         break;
                     case "5":
-                        System.out.println("Exit............");
+                        System.out.println("Exit..........");
                         flag = true;
                         break;
                     default:
